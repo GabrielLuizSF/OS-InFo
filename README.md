@@ -26,7 +26,9 @@ bundler
 ```
   
 ## Last Step
+  
     º Open the terminal in the project folder and run the command :
+  
  ```sh
 ruby os.rb
 ```
