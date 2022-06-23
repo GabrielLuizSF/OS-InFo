@@ -1,8 +1,4 @@
-<div align="center">
-  
-# **OS-InFo**
 
-</div>
 
 <div align="center">
  
